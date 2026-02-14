@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "恋模様 feat. LGYankees（feat. LGYankees）",
+  "base_artist": "LGYankees",
+  "createdAt": "2026-02-14T15:16:01.922547Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "恋模様",
+      "artist": "Scandal",
+      "has_synced": true,
+      "path": "select/01_恋模様_Scandal.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "恋模様 feat. LGYankees",
+      "artist": "LGYankees Produce ShaNa",
+      "has_synced": false,
+      "path": "select/02_恋模様_feat._LGYankees_LGYankees_Produce_ShaNa.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "恋模様",
+      "artist": "Kudo, Shizuka",
+      "has_synced": true,
+      "path": "select/03_恋模様_Kudo,_Shizuka.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Koi Moyou (恋模様)",
+      "artist": "SCANDAL",
+      "has_synced": true,
+      "path": "select/04_Koi_Moyou_(恋模様)_SCANDAL.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Koi Moyou (恋模様)",
+      "artist": "SCANDAL",
+      "has_synced": true,
+      "path": "select/05_Koi_Moyou_(恋模様)_SCANDAL.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "恋模様 with クリフエッジ,大山愛未",
+      "artist": "LGYankees",
+      "has_synced": false,
+      "path": "select/pl_01_恋模様_with_クリフエッジ,大山愛未_LGYankees.txt"
+    }
+  ]
+}
